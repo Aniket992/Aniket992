@@ -1,5 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aniket Mishra</h1>
+<h3 align="center">A passionate learner from India</h3>
 
 🔭 I’m currently working on Portfolio <br>🌱 I’m currently learning React Native<br>💬 Ask me about ReactJS, NodeJS,JavaScript<br>
 
